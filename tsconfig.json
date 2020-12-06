@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2020",
+    "jsx": "preserve",
+    "sourceMap": true,
+    "lib": ["ES2020", "DOM", "ES2015", "ES2017.Object"],
+  },
+  "exclude": [
+    "node_modules",
+    "**/node_modules/*"
+  ]
+}
